@@ -1,0 +1,10 @@
+#ignore temp Mac files
+*~
+
+#ignore R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+Hackathon-Central-2019.Rproj
